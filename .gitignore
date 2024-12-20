@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pypackages__/
+
+# Folders
+processed/
+temp/
+
+# Environments
+env/
+
+# Config
+config.py
